@@ -1,0 +1,11 @@
+import turtle
+turtle.goto(50,0)
+turtle.goto(25,-25)
+turtle.goto(0,0)
+turtle.penup()
+turtle.goto(25,10)
+turtle.pendown()
+turtle.goto(40,-40)
+turtle.goto(25,-25)
+turtle.goto(10,-40)
+turtle.goto(25,10)
