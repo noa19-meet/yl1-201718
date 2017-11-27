@@ -15,4 +15,5 @@ class Square (Turtle):
 square1=Square(10)
 square1.random_color()
 turtle.mainloop()
-    
+
+
